@@ -1,0 +1,15 @@
+# Neurozine®
+
+## Description
+A Huperzine-A supplement focused on cognitive clarity, memory recall, and sustained focus by supporting acetylcholine activity.
+
+## Site structure
+
+### Homepage (/)
+- Overview of the product's purpose and intended cognitive benefits (clarity, memory, focus)
+- Explanation of how Huperzine-A supports acetylcholine for learning and recall
+- Interactive brain-reaction speed assessment with result context
+- Product information, dosage options (400 mcg, 800 mcg), and purchasing
+
+### Quality portal (/quality/coa)
+- Batch number or QR code lookup for certificates of analysis
